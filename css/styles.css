@@ -97,6 +97,9 @@ p{
     text-align: center;
     padding: 100px;
 }
+.pricing-coloum{
+    padding: 3% 2%;
+}
 #cta{
     background-color: #ff4c68;
     text-align: center;
